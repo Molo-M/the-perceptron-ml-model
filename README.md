@@ -15,7 +15,7 @@ The notebook demonstrates:
 
 - `Perceptron Implementation.ipynb` – Main notebook containing code, visualizations, and explanations
 - `example_datset.csv` – Dataset artificially generated using Numpy
-- `Data Science Conference Presentation` - Powerpoint document briefly expanding on the Perceptron
+- `Data Science Conference Presentation.pptx` - Powerpoint document briefly expanding on the Perceptron
 - `README.md` – Project overview and usage instructions
 
 ## Requirements
